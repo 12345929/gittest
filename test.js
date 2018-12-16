@@ -1,2 +1,2 @@
 alert("hello world");
-alert("hello ycm");
+alert("hello ycm!");
